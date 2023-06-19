@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an Electrical Engineer and Master's in Industrial Automation from the Universidad Nacional de Colombia, with experience in electric vehicles, demand management, renewable energies, power systems, optimization, and Public Lightning.<br><br>Now I am interested in improving my skills as a Data Scientist and also testing myself in Machine Learning and Artificial intelligence.
+I am a graduate of the Universidad Nacional de Colombia, with more than two years of experience as a researcher/programmer in projects of the energy transition, and I am currently working as a Data Scientist in the financial sector. I stand out for being a dedicated and organized person with a set of soft skills acquired from my years of volunteering and self-learning.
+
+I am currently interested in being part of projects associated with Machine Learning, Data Science, Big Data, and/or energy transition.
 
 
 ## 🌐 Socials:
